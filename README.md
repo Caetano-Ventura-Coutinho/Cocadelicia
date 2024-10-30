@@ -25,8 +25,6 @@ Você pode contribuir o aplicativo enviando suas próprias receitas para outros 
 Há uma opção de avaliar as receitas e restaurantes de 0 a 5 estrelas, indicando a qualidade para outros usuários.
 
 
-<h3>Contatos</h3>
-Email: cacadelicia@gmail.com
 
 
 

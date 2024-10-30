@@ -18,9 +18,6 @@ Nosso aplicativo propõe uma lista de restaurante com foco na comida nordestina 
 <h3>Favoritos</h3>
 Caso queira salvar uma receita ou um restaurante, pode favorita-la, onde ao acessar sua conta, você consegue visualizar o que foi salvo. 
 
-<h3>Contribuição</h3>
-Você pode contribuir o aplicativo enviando suas próprias receitas para outros usuários.
-
 <h3>Avaliação</h3>
 Há uma opção de avaliar as receitas e restaurantes de 0 a 5 estrelas, indicando a qualidade para outros usuários.
 

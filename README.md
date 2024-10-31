@@ -1,5 +1,7 @@
 # Cocadelicia
 
+Alunos: Caetano Ventura Coutinho e Jhennifer Camila Mesquita Ferreira
+
 O Cocadelíca é um aplicativo mobile sobre comidas típicas da região do nordeste do Brasil. Nele, encontra uma variedade de receitas autênticas nordestinas com descrições e instruções. Cocadelícia surgiu com o intuíto de compartilhar, ensinar e celebrar a cultura nordestina brasileira.
 
 <h1>Sobre o Aplicativo</h1>
@@ -21,6 +23,7 @@ Caso queira salvar uma receita ou um restaurante, pode favorita-la, onde ao aces
 <h3>Avaliação</h3>
 Há uma opção de avaliar as receitas e restaurantes de 0 a 5 estrelas, indicando a qualidade para outros usuários.
 
+<h1>Sumário da wiki</h1>
 
 
 

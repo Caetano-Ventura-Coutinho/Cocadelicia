@@ -23,8 +23,8 @@ Caso queira salvar uma receita ou um restaurante, pode favorita-la, onde ao aces
 <h3>Avaliação</h3>
 Há uma opção de avaliar as receitas e restaurantes de 0 a 5 estrelas, indicando a qualidade para outros usuários.
 
-<h1>Sumário da wiki</h1>
+<h1>Sumário da wiki:</h1>
 
+[Diagrama de Classes](https://github.com/Caetano-Ventura-Coutinho/Cocadelicia/wiki/Diagrama-de-Classes);
 
-
-
+[Protótipo](https://github.com/Caetano-Ventura-Coutinho/Cocadelicia/wiki/Protótipo);
